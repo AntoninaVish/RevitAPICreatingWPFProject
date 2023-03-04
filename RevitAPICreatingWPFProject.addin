@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\Program Files\RevitAPITrainig\RevitAPICreatingWPFProject.dll"</Assembly>
+		
+		<AddInId>249F4DC8-F930-4E99-8930-DE04F57D6FDA</AddInId>
+		<FullClassName>RevitAPICreatingWPFProject.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>RevitAPICreatingWPFProject для Revit</Text>
+	</AddIn>
+</RevitAddIns>
